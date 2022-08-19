@@ -1,0 +1,19 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_9248F911_B54C_2056_41E1_EC8739A991E5.label = panorama_CB9D1D78_D2FF_0723_41C4_6017CB8E9A82_hd_t
+
+## Skin
+
+### Imágen
+Image_92A5DBC7_B5CC_E03A_41E3_82EAC39064D3_mobile.url = skin/Image_92A5DBC7_B5CC_E03A_41E3_82EAC39064D3_mobile_es.png
+Image_9EE911DF_B2FC_23CA_41D9_BB8C97BA8546.url = skin/Image_9EE911DF_B2FC_23CA_41D9_BB8C97BA8546_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 18
